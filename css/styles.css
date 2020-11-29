@@ -1,0 +1,317 @@
+a:hover{
+text-decoration: none;
+}
+.section
+{	
+padding-top:70px;
+padding-bottom:70px;
+}
+
+.section h2.section-head{
+color:#000;
+text-align:center;
+margin-bottom:40px;
+font-family:PERPETUA TITLING MT,serif;
+}
+
+.section h2.section-head:after{
+background:#e74c3c;
+content:"";
+display:block;
+width:100px;
+height:3px;
+margin:20px auto;
+}
+.header-Image
+{
+height:60px;
+border:1px solid transparent;
+}
+
+.image1
+{
+color:black;
+}
+.image2
+{
+color:white;
+}
+.image3{
+color:red;
+}
+
+.carousel
+{
+
+height:450px;
+width:700px;
+margin-left:450px;
+}
+
+.buttons
+{
+margin-left:500px;
+margin-right:600px;
+padding:10px;
+}
+.content-center-panel
+{
+width:45%;
+height:35vh;
+margin:0 auto;
+float:center;
+padding:20px;
+border:1px solid black;
+}
+.table-content
+{
+width:90wh;
+height:70vh;
+margin:5px;
+overflow:scroll;
+border:1px solid transparent;
+}
+.main-container
+{
+width:auto;
+height:auto;
+margin:5px;
+border:1px solid transparent;
+}
+.image-hos
+{
+background:url('/minorProject/images/index2.jpg') no-repeat 0 0;
+background-size: cover;
+}
+.image-index
+{
+background:url('/minorProject/images/Asap.jpg') no-repeat 0 0;
+background-size: cover;
+}
+
+.image-pharmacy
+{
+background:url('/minorProject/images/index4.jpg') no-repeat 0 0;
+background-size: cover;
+}
+
+.image-dr
+{
+background:url('/minorProject/images/doctor1.jpg') no-repeat 0 0;
+background-size: cover;
+}
+
+.image-login
+{
+background:url('/minorProject/images/hospitals.png') no-repeat 0 0;
+background-size: cover;
+}
+
+.font
+{
+font-family:PERPETUA TITLING MT,serif;
+font-size:30px;
+font-weight:bold;
+text-align:center;
+}
+
+.font-tab
+{
+text-align:center;
+font-family:Arial,Helvetica,sans-serif;
+font-size:25px;
+font-weight:bold;
+}
+ 
+.index-con
+{
+border:1px solid transparent;
+}
+.header
+{
+height:8vh;
+border:1px solid transparent;
+}
+.menu
+{
+list-style:none;
+margin:0;
+padding:0;
+font-family:PERPETUA TITLING MT,serif;
+font-size:20px;
+font-weight:bold;
+}
+.menu li{
+display: inline-block;
+}
+.menu li a{
+color: #fff;
+padding:15px 10px;
+display:block;
+}
+.menu li a:hover{
+background:#c0392b;
+}
+
+.banner
+{
+background:url('/minorProject/images/ap.jpg') no-repeat 0 0;
+background-size: cover;
+width:auto;
+height:1000px;
+border:1px solid transparent;
+}
+
+
+.service-box
+{
+text-align:center;
+font-family:Arial,Helvetica,sans-serif;
+}
+
+.service-box i.fa{
+color: #e74c3c;
+font-size:60px;
+margin-bottom:15px;
+}
+
+.testimonials-container{
+color:#fff;
+background:url('/minorProject/images/testimonial4.jpg') no-repeat 0 0;
+background-size: cover;
+padding:50px 0;
+position:relative;
+}
+
+.font-sli
+{
+font-family:"Times New Roman",Times,serif;
+font-weight:bold;
+font-size:20px;
+}
+
+.font-ti
+{
+color:#000;
+font-weight:bold;
+font-size:20px;
+font-family:PERPETUA TITLING MT,serif;
+}
+
+.news-post img{
+width:100%;
+margin-bottom: 10px;
+}
+
+.news-post h3{
+font-size:1.35rem;
+}
+
+.news-post h3 a{
+color:#e74c3c;
+font-family:PERPETUA TITLING MT,serif;
+}
+
+.post-date
+{
+font-size:13px;
+margin-bottom:2px;
+}
+
+.post-date:before{
+content: "\f073";
+font-family:fontAwesome;
+padding-right:5px;
+}
+
+a.readmore{
+color:#e74c3c;
+font-size:14px;
+}
+
+a.readmore:after{
+content: "\f101";
+font-family:fontAwesome;
+padding-left:5px;
+}
+
+#footer
+{
+color:#fff;
+background:#0097e6;
+padding: 10px 50px;
+font-family:PERPETUA TITLING MT,serif;
+font-weight:bold;
+}
+
+#social-icons
+{
+list-style:none;
+color:#fff;
+margin:0;
+padding:0;
+}
+
+#social-icons li{
+display:inline-block;
+padding-left:5px;
+}
+
+#social-icons li a{
+color:#fff;
+font-size:23px;
+}
+
+.my-custom-scrollbar
+{
+position:relative;
+height:350px;
+overflow:auto;
+}
+
+.table-wrapper-scroll-y{
+display:block;
+}
+
+.glyphicon-pencil{
+font-size:50px;
+font-color:white;
+float:center;
+margin-top:50px;
+}
+
+.image-lo
+{
+background:url('/minorProject/images/login.jpg') no-repeat 0 0;
+background-size: cover;
+}
+
+.custom-margin
+{
+margin-top:20vh;
+}
+
+.custom-letter
+{
+margin-left:10px;
+margin-top:6vh;
+font-size:20px;
+}
+
+.custom-button
+{
+margin-top:5.5vh;
+margin-left:120px;
+}
+
+.font-log
+{
+color:#fff;
+font-family:PERPETUA TITLING MT,serif;
+font-size:35px;
+}
+
+.font-login
+{
+color:#fff;
+}
